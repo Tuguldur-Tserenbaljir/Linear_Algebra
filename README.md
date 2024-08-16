@@ -2,7 +2,7 @@
 ***Fall 2020, EECS205002 Linear Algebra, 李哲榮(LEE, CHE-RUNG))***<br/>
 Linear algebra is a branch of mathematics that studies systems of linear equations and the properties of matrices. The concepts of linear algebra are extremely useful in engineering, physics, economics and social sciences, and natural sciences.
 
-# Mini-Coding Project Percentage
+# Assignments
 Assignment 1-75/100 ***Maximize Your Grade***<br/>
 Assignment 2-70/100 ***Making Your Movie***<br/>
 Assignment 3-79/100 ***Perfecting Your Drawing***<br/>
